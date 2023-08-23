@@ -37,4 +37,5 @@ yarn build-prod (for prod)
 - final-form
 - polyglot
 - material 5
-- redux
+- redux-toolkit
+- rtk-query
