@@ -1,6 +1,6 @@
 # react-es-base-app
 
-This is a blog developed in typescript with react, redux-toolkit and rtk-query. It works with the json server, you can find it at the [url](https://github.com/ChristianMar/simple-fake-server).
+This is a blog developed in es6 with react, redux-toolkit and rtk-query. It works with the json server, you can find it at the [url](https://github.com/ChristianMar/simple-fake-server).
 
 ## Getting started
 
